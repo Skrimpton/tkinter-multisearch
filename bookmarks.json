@@ -1,5 +1,4 @@
-{
-            
+{ 
     "video"             :[
         "https://odysee.com/$/search?q=%s"
         ,"https://archive.org/details/movies?tab=collection&query=%s"
