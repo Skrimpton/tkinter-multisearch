@@ -177,22 +177,7 @@ class MainWindow:
         del(tmp)
 
         # --------------------------------------- COMBO - END
-
-        # --------------------------------------- ENTRY - BEGIN
-
-#        entry             = tk.Entry        ( root )
-#
-#        entry             .bind             ( '<Return>'
-#                                              ,self.onReturnEntry
-#        );
-#        entry             .pack             ( fill='x'
-#                                              ,padx=2
-#                                              ,expand=True
-#        );
-
-        # --------------------------------------- ENTRY - END
-
-#        widgets['entry'] = entry
+      
         widgets['combo'] = combo
         widgets['label'] = label
         widgets['check'] = check
