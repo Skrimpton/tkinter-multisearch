@@ -7,4 +7,4 @@ Very simple tool to create search-urls for bookmarked goups of websites, and ope
 * a json file
 * an icon file, i'm just realizing. Any .png or .ico will do.
 
-Replace icon.ico or icon.png with your own if you're paranoid.
+Replace included icon.ico or icon.png with your own if you're paranoid.
