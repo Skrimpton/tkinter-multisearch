@@ -4,7 +4,7 @@ Very simple tool to create search-urls for bookmarked goups of websites, and ope
 ## NB
 You have to manually edit the .pyw-file and input the full path to your webbrowser executable.
 
-Current value is for linux, and included path is the standard path of install for firefox  
+Current value is for linux, and included windows-path is the standard path of install for firefox  
 
 
 ### Tested on: 
