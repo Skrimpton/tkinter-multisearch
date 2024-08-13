@@ -7,7 +7,7 @@ You have to manually edit the .pyw-file and input the full path to your webbrows
 Current value is for linux, and included path is the standard path of install for firefox  
 
 
-Tested on: 
+### Tested on: 
 * windows 10
 * linux: Manjaro - KDE plasma 5.27
 
