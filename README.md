@@ -12,6 +12,6 @@ Tested on:
 * tkinter
 * webbrowser module
 * a json file
-* an icon file, i'm just realizing. Any .png or .ico will do. BUT CALL IT ```icon.xxx```
+* an icon file, i'm just realizing. Any .png or .ico will do. <br>important: ```icon.xxx```
 
 Replace included icon.ico ( windows ) or icon.png ( linux ) with your own, if you're paranoid.
