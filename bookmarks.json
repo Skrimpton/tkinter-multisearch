@@ -1,0 +1,19 @@
+{
+            
+    "video"             :[
+        "https://odysee.com/$/search?q=%s"
+        ,"https://archive.org/details/movies?tab=collection&query=%s"
+        ,"https://www.youtube.com/results?search_query=%s"
+    ],
+    
+    "pictures"          :[
+        "https://www.flickr.com/search/?text=%s"
+        ,"https://www.deviantart.com/search?q=%s"
+        ,"https://duckduckgo.com/?t=ffab&q=%s&t=ffab&iar=images&iax=images&ia=images&kp=-2"
+    ],
+    
+    "web"               :[
+        "https://duckduckgo.com/?q=%s&t=ffab&ia=web&kp=-2"
+        ,"http://10.0.0.5:8080/search?q=%s"
+    ]
+}
