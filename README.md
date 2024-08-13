@@ -1,7 +1,7 @@
 # tkinter-multisearch
 Very simple tool to create search-urls for bookmarked goups of websites, and open them in new tabs.
 
-## NB
+## NB - edit lines 24/25
 On windohs you probably have to manually edit the .pyw-file and input the full path to your webbrowser executable.
 
 Name of the executable was enough on linux, probably cause they usually get auto-added to path on install.
