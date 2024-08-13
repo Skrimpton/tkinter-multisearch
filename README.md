@@ -3,7 +3,8 @@ Very simple tool to create search-urls for bookmarked goups of websites, and ope
 
 ## NB
 On windohs you probably have to manually edit the .pyw-file and input the full path to your webbrowser executable.
-Name of executable was enough on linux, probably cause they usually get auto-added to path on install.
+
+Name of the executable was enough on linux, probably cause they usually get auto-added to path on install.
 
 Current value is for linux, and included windows-path is the standard path of install for firefox  
 
