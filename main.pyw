@@ -37,7 +37,6 @@ class MainWindow:
     def build(self):
         root            = self.root
         widgets         = self.widgets
-        self.root.config(background='black')
 
         self.current_list = self.links['video']
 
@@ -85,6 +84,7 @@ class MainWindow:
             },
         }
 
+        root.config(background='black')
         root.title("Multisearch 0.2")
         root.minsize(410,40)
         root.geometry("440x40")
