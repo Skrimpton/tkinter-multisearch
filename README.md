@@ -3,8 +3,8 @@ Very simple tool to create search-urls for bookmarked goups of websites, and ope
 
 
 Tested on: 
-* windows (10)
-* linux (manjaro kde plasma 5)
+* windows 10
+* linux: Manjaro - KDE plasma 5.27
 
 
 ### Dependencies
