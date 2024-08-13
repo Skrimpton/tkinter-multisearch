@@ -8,6 +8,7 @@ Tested on:
 
 
 ### Dependencies
+* python 3
 * tkinter
 * webbrowser module
 * a json file
