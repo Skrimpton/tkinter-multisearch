@@ -14,6 +14,6 @@
     
     "web"               :[
         "https://duckduckgo.com/?q=%s&t=ffab&ia=web&kp=-2"
-        ,"http://10.0.0.5:8080/search?q=%s"
+        ,"https://search.brave.com/search?q="
     ]
 }
