@@ -12,7 +12,7 @@
     ],
     
     "web"               :[
-        "https://duckduckgo.com/?q=%s&t=ffab&ia=web&kp=-2"
+        "https://duckduckgo.com/?q=%s&t=ffab&ia=web"
         ,"https://search.brave.com/search?q=%s"
     ]
 }
