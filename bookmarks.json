@@ -8,7 +8,7 @@
     "pictures"          :[
         "https://www.flickr.com/search/?text=%s"
         ,"https://www.deviantart.com/search?q=%s"
-        ,"https://duckduckgo.com/?t=ffab&q=%s&t=ffab&iar=images&iax=images&ia=images&kp=-2"
+        ,"https://duckduckgo.com/?t=ffab&q=%s&t=ffab&iar=images&iax=images&ia=images"
     ],
     
     "web"               :[
