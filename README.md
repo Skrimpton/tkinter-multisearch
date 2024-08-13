@@ -2,7 +2,8 @@
 Very simple tool to create search-urls for bookmarked goups of websites, and open them in new tabs.
 
 ## NB
-On windohs you have to manually edit the .pyw-file and input the full path to your webbrowser executable.
+On windohs you probably have to manually edit the .pyw-file and input the full path to your webbrowser executable.
+Name of executable was enough on linux, probably cause they usually get auto-added to path on install.
 
 Current value is for linux, and included windows-path is the standard path of install for firefox  
 
